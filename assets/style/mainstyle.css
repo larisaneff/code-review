@@ -1,6 +1,27 @@
 /* CSS Document */
 
-body{
-	background-color: #000;
-	color: #FF68F9;
+body
+{
+	color: hotpink;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+h1 
+{
+	font-size="90px"
+}
+
+.border 
+{ border-width: 7px; border-color: lightblue; border-style: solid; 
+}
+
+h3
+{
+	color: mediumpurple;
+	font: bold;
+}
+
+h4
+{
+	color: lightblue;
 }
